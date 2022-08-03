@@ -29,6 +29,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="60" height="60"/>
 </div>
 
+## :books: Currently Studying:
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
+</div>
+
+
 ## My main Projects:
 - [News Explorer](https://github.com/AmyRayDroui/news-explorer-frontend)📰
 - [Around US](https://github.com/AmyRayDroui/react-around-api-full)📸
