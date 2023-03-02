@@ -1,11 +1,10 @@
 # Hi there 👋 I am Amy Ray(She/Her) and I love problem solving and learning
 
 ## 💻 About me:
- - I am a junior fullstack web developer from Ramat Gan Israel
+ - I am a junior fullstack web developer from Haifa Israel
  - I studdied programming at Magshimim elite program
  - I studdied web development at Practicum100
  - I love math, problem solving, and challanges
- - Currently I work as a Integration Analyist and fullstack web developer at Vayyar Imaging
  - In my free time I like to solve problems in Codeware and  learn new technologies
 
 ## :hammer_and_wrench: Languages and Tools:
@@ -15,6 +14,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="60" height="60"/>&nbsp;
@@ -31,7 +31,6 @@
 
 ## :books: Currently Studying:
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
 </div>
 
