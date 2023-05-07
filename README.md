@@ -39,6 +39,7 @@
 ## My main Projects:
 - [News Explorer](https://github.com/AmyRayDroui/news-explorer-frontend)📰
 - [Around US](https://github.com/AmyRayDroui/react-around-api-full)📸
+- [My Portfoli Page](https://amyraydroui.github.io/Portfolio)🗎
 
 ## Contact:
 - [My LinkedIn](https://www.linkedin.com/in/amy-ray-droui-webdeveloper/)
