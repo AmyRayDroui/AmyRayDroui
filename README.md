@@ -12,6 +12,9 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt" alt="Nuxt" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="60" height="60"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="TaileindCSS" alt="TaileindCSS" width="60" height="60"/>&nbsp;
@@ -34,7 +37,7 @@
 
 ## :books: Currently Studying:
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="60" height="60"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="Angular" alt="Angular" width="60" height="60"/>&nbsp;
 </div>
 
 
