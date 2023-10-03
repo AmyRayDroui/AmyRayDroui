@@ -1,11 +1,11 @@
 # Hi there 👋 I am Amy Ray(She/Her) and I love problem solving and learning
 
 ## 💻 About me:
- - I am a fullstack web developer from Haifa Israel
- - I worked for half a year at One Zero Thecnologies Ltd as a fullstack web developer.
- - I studdied programming at Magshimim elite program
- - I studdied web development at Practicum100
- - I love math, problem solving, and challanges
+ - I am a full-stack web developer from Haifa Israel
+ - I currently work for AiDock as a full-stack web developer.
+ - I studied programming at the Magshimim elite program
+ - I studied web development at Practicum100
+ - I love math, problem-solving, and challenges
  - In my free time I like to solve problems in Codeware and  learn new technologies
 
 ## :hammer_and_wrench: Languages and Tools:
