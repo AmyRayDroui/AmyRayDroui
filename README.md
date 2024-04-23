@@ -2,7 +2,7 @@
 
 ## 💻 About me:
  - I am a full-stack web developer from Haifa Israel
- - I currently work for AiDock as a full-stack web developer.
+ - I currently work for Agam Data Analytics as a full-stack web developer.
  - I studied programming at the Magshimim elite program
  - I studied web development at Practicum100
  - I love math, problem-solving, and challenges
